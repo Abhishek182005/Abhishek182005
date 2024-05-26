@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Abhishek" />
  </a> 
    <a href="https://www.discord.com/@indian_3501/" target="_blank">
-  <img src="https://img.shields.io/badge/disocrd-fe4164?style=for-the-badge&logo=discord&logoColor=white" alt="Abhishek" />
+  <img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" alt="Abhishek"/>
  </a> 
 </p>
 <br />
