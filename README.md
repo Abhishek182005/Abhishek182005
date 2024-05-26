@@ -56,7 +56,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: abhishek182005saxena@gmail.com<br/><br/>
-    &emsp; Expect the unexpected in this world.
+ 💬 &emsp; Expect the unexpected in this world.
 
 </p>
 
@@ -72,14 +72,15 @@
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-
+![HTML](https://camo.githubusercontent.com/bfe6a48836e87b13a16f1f56f88fee428475c2ac29247992ec9b8bcc7154f881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![CSS](https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 <br/>
 
-## Top Open Source -
+## MY REPOSITORIES -
 
-<p align="left">
+  ![Poll-App](https://github.com/Abhishek182005/Pollapp-Django)
+  ![Django-Dictionary](https://github.com/Abhishek182005/Dictionary-Django)
   <a href="https://github.com/Abhishek182005?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
