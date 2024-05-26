@@ -1,13 +1,13 @@
-
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Abhishek182005/Abhishek182005/assets/164459641/8e3f69bc-0ad1-49a9-bbd9-ae3d54983303)
 <h2 align="center">
-  Welcome to Abhishek World!
+  Welcome to my GitHub Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 
 
 <p align="center">
-  <a href="https://github.com/Abhishek182005"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Abhishek182005"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Programmer;Django%20Framework%20&%20MERN%20Developer;Python%20&%20C++%20coder%20;Aspiring%20Data%20Anaytics%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
