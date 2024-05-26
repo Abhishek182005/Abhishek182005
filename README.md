@@ -13,7 +13,7 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Abhishek182005&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -56,21 +56,22 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: abhishek182005saxena@gmail.com<br/><br/>
+    &emsp; Expect the unexpected in this world.
 
 </p>
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ## Use To Code
 
-https://img.shields.io/pypi/pyversions/:packageName
-
-
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 <br/>
 
