@@ -42,9 +42,6 @@
  <a href="https://www.instagram.com/abhishek18_2005/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Abhishek" />
  </a> 
-   <a href="https://www.discord.com/@indian_3501" target="_blank">
-  <img src="https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white" alt="Abhishek"/>
- </a> 
 </p>
 <br />
 
