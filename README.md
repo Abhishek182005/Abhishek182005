@@ -78,10 +78,11 @@
 
 ## MY REPOSITORIES -
 
-  ![Poll-App](https://github.com/Abhishek182005/Pollapp-Django)
-  ![Django-Dictionary](https://github.com/Abhishek182005/Dictionary-Django)
+  ![Poll-App](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)(https://github.com/Abhishek182005/Pollapp-Django)
+  ![Django-Dictionary](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)(https://github.com/Abhishek182005/Dictionary-Django)
+  <p align="center">
   <a href="https://github.com/Abhishek182005?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-
+</p>
 <br/>
 <hr/>
 <br/>
