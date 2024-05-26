@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Abhishek182005"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Programmer;Django%20Framework&%20and%20MERN%20Developer;Python%20and%20C++%20coder%20;Aspiring%20Data%20Anaytics%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Learning+programmer;Django+Framework+%26+MERN+Developer;Python+%26+C%2B%2B+developer;Aspiring+Data+analyst;Always++learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
