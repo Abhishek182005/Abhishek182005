@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Abhishek182005"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Programmer;Django%20Framework%20&%20MERN%20Developer;Python%20&%20C++%20coder%20;Aspiring%20Data%20Anaytics%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Abhishek182005"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Programmer;Django%20Framework&%20and%20MERN%20Developer;Python%20and%20C++%20coder%20;Aspiring%20Data%20Anaytics%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
