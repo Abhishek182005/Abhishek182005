@@ -1,4 +1,4 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Abhishek182005/Abhishek182005/assets/164459641/8e3f69bc-0ad1-49a9-bbd9-ae3d54983303)
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="500px" width="750px">
 <h2 align="center">
   Welcome to my GitHub Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Learning+programmer;Django+Framework+%26+MERN+Developer;Python+%26+C%2B%2B+developer;Aspiring+Data+analyst;Always++learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Learning+programmer;Django+Framework+%26+MERN+Developer;Python+%26+C%2B%2B+developer;Aspiring+Data+analyst;Always++learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
