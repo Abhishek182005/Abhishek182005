@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Learning+Programmer;Django+Framework+%26+MERN+Developer;Python+%26+C%2B%2B+Programmer;Aspiring+Data+Analyst;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Learning+Programmer;Django+Framework+%26+MERN+Developer;Python+%26+C%2B%2B+Programmer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
 
