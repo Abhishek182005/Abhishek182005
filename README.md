@@ -81,8 +81,8 @@
 [![Dicitonary](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=Dictionary-Django&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/Dictionary-Django)
 [![Weather-Info](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=Weatherapp-Django&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/Weatherapp-Django)
 [![COUNTRYFACT-PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=COUNTRYFACT-PROJECT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/COUNTRYFACT-PROJECT)
-[![PASSWORD-PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=PASSWORD-PROJECT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/LIBRARY-MANAGEMENT)
-[![LIBRARY-MANAGEMENT](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=LIBRARY-MANAGEMENT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/PASSWORD-PROJECT)
+[![LIBRARY-MANAGEMENT](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=PASSWORD-PROJECT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/LIBRARY-MANAGEMENT)
+[![PASSWORD-PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=LIBRARY-MANAGEMENT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/PASSWORD-PROJECT)
 [![CONTACT-BOOK](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=CONTACT-BOOK&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/CONTACT-BOOK)
 
 
