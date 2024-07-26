@@ -94,6 +94,7 @@
 
 # DEPLOYED-WEBSITE
 [![COMMUNITY-FORM-WEBSITE](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=COMMUNITY-FORM-WEBSITE&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/COMMUNITY-FORM-WEBSITE)
+<a href="https://communityform.netlify.app"> click here</a>
   <p align="center">
   <a href="https://github.com/Abhishek182005?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
