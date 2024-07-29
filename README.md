@@ -87,7 +87,6 @@
 
 
 # MERN
-[![FINANCE-TRACKER](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=FINANCE-TRACKER&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/FINANCE-TRACKER)
 [![PROJECT-MANAGEMENT-TOOL](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=Encryptix_taskno6-PROJECT-MANAGEMENT-TOOL&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/Encryptix_taskno6-PROJECT-MANAGEMENT-TOOL)
 [![COMMUNITY-FORM](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=COMMUNITY-FORM&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/COMMUNITY-FORM)
 [![HOSPITAL-MANAGEMENT](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=HOSPITAL-MANAGEMENT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/HOSPITAL-MANAGEMENT)
