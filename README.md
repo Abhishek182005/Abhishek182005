@@ -94,12 +94,13 @@
 # MERN
 [![PROJECT-MANAGEMENT-TOOL](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=Encryptix_taskno6-PROJECT-MANAGEMENT-TOOL&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/Encryptix_taskno6-PROJECT-MANAGEMENT-TOOL)
 [![COMMUNITY-FORM](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=COMMUNITY-FORM&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/COMMUNITY-FORM)
-[![HOSPITAL-MANAGEMENT](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=HOSPITAL-MANAGEMENT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abhishek182005/HOSPITAL-MANAGEMENT)
+
 
 # DEPLOYED-WEBSITE
 <p align="center"> CLICK ON THE BOX TO VISIT THE WEBSITE</p>
 
 [![COMMUNITY-FORM-WEBSITE](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=COMMUNITY-FORM-WEBSITE&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://communityform.netlify.app/)
+[![FUEL-MYSEMESTER](https://github-readme-stats.vercel.app/api/pin/?username=Abhishek182005&repo=FUELMYSEMESTER&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://fuelmysemester.onrender.com)
 
   <p align="center">
   <a href="https://github.com/Abhishek182005?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
