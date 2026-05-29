@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Abhishek" />
  </a> 
 </p>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/abhishek182005?style=for-the-badge)](https://peerlist.io/abhishek182005)
 <br />
 
 <!-- About Section -->
