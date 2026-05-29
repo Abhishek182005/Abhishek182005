@@ -36,7 +36,7 @@
  <a href="https://www.linkedin.com/in/abhishek-saxena182005/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhishek"/>
  </a>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/abhishek182005?style=for-the-badge)](https://peerlist.io/abhishek182005)
+  
  <a href="https://x.com/Abhishe13243" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Abhishek" />
  </a> 
 </p>
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/abhishek182005?style=for-the-badge)](https://peerlist.io/abhishek182005)
 <br />
 
 <!-- About Section -->
